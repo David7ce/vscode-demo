@@ -7,7 +7,7 @@ Por tanto solo necesitaríamos un editor (como vscode) y Git instalado.
 Esto es una prueba de móvil
 
 ## Previo
-1. Instalar [VS Code](https://code.visualstudio.com/Download) en local para nuestro sisteam operativo. Más documentación [aquí](Documentación aquí https://code.visualstudio.com/docs/setup/setup-overview)
+1. Instalar [VS Code](https://code.visualstudio.com/Download) en local para nuestro sisteam operativo. Más documentación [aquí](https://code.visualstudio.com/docs/setup/setup-overview)
 2. Instalar [Git](https://git-scm.com/)
 3. Nociones básicas de vscode 
 4. Aprendiendo git
