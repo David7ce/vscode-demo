@@ -15,7 +15,7 @@ Esto es una prueba de móvil
 5. Crear cuenta de GitHub [aquí](https://github.com/signup)
 
 ## Editar proyecto en local
-1. [Abrimos y editamos una web local]()
-2. [Subiremos los cambios con Git al repositorio remoto de GitHub]()
-3. [Publicamos la web]()
-4. [Descargamos los cambios en otro repositorio en local]()
+1. Abrimos y editamos una web en local
+2. Subiremos los cambios con Git al repositorio remoto de GitHub
+3. Publicamos la web
+4. Descargamos los cambios en otro repositorio en local
