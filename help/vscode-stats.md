@@ -7,11 +7,10 @@
 - In the 2022 survey, 74.48% of the 71,010 responses.
 
 ## Proyectos con más de 100k commits
-
-https://github.com/torvalds/linux
-https://github.com/tensorflow/tensorflow
-https://github.com/microsoft/vscode
-https://github.com/kubernetes/kubernetes
+- https://github.com/torvalds/linux
+- https://github.com/tensorflow/tensorflow
+- https://github.com/microsoft/vscode
+- https://github.com/kubernetes/kubernetes
 
 - Projects with more than 100k commits in github?
 - Can I use C# and compile in vscode? 
