@@ -22,6 +22,8 @@ Se puede editar desde cualquier sistema que use Git, ya sea VSCode con Git integ
 
 > la URL puede usar el protocolo: HTTPS https://github.com/User/UserRepo o SSH git@github.com:User/UserRepo.git
 
+Para usar SSH hay que añadir el par de claves (pública y privada), más info en la [documentación de GitHub](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
 6. Aprende GitHub con [GitHub Skills](https://skills.github.com/)
 
 ## Editar proyecto en local
