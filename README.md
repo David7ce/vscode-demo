@@ -27,5 +27,5 @@ Se puede editar desde cualquier sistema que use Git, ya sea VSCode con Git integ
 ## Editar proyecto en local
 1. Abrimos y editamos un proyecto de página web en local
 2. Subimos los cambios con Git al repositorio remoto de GitHub
-3. Publicamos la web en GitHub Pages
+3. Publicamos la web en [GitHub Pages](https://pages.github.com/)
 4. Descargamos los cambios en otro repositorio en local

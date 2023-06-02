@@ -73,7 +73,7 @@ sudo pacman -S code
 ```
 
 ### VS Codium: <img src="./img/vscodium.svg" alt="drawing" width="20"/>
-Es el mismo proceso que VSCode pero con tienda open-source y sin rastreadores de Microsoft.
+VSCodium es VSCode pero con tienda open-source y sin rastreadores de Microsoft. Para descargar desde es desde el [repositorio de github](https://github.com/VSCodium/vscodium/releases) y para instalar hay que elegir la extensión exe (windows), dmg (macos), rpm y deb (red-hat y debian ambos con kernel Linux). 
 
 ## Referencias
 
