@@ -1,5 +1,7 @@
 # VSCode instalación
 
+VSCode está basado en [Monaco editor](https://github.com/microsoft/monaco-editor), editor de código para el navegador.
+
 ## Versiones de VSCode
 Visual Studio Code se publica bajo dos versiones:
 

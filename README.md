@@ -5,17 +5,17 @@ Se puede editar desde cualquier sistema que use Git, ya sea VSCode con Git integ
 
 ## Previo
 1. Crear cuenta de GitHub [aquí](https://github.com/signup)
-2. Instalar [VS Code](https://code.visualstudio.com/Download) en local para nuestro sisteam operativo. Más info [aquí](https://code.visualstudio.com/docs/setup/setup-overview)
+2. Instalar [VS Code](./vscode/vscode-install.md) en local para nuestro sisteam operativo. Más info [aquí](https://code.visualstudio.com/docs/setup/setup-overview)
 3. Instalar [Git](https://git-scm.com/)
-4. Nociones básicas de vscode:
-- Explorer, search, source control (git), run and debug, extensions (miles en tienda), etc
+4. Nociones básicas de [vscode](./vscode/vscode-documentation.md):
+- Explorador, búsqueda, control de código fuente (git), ejecución y depuración, extensiones (miles en tienda), etc.
 - Paleta: Ctrl + shift + P | Buscador archivos (Ctrl + P)
 - atajos teclado
 - selectores múltiples
 - terminal (desplazar de abajo o atajo teclado)
 - emmet para web dev
 
-5. Aprendiendo el control de versiones git, [chuleta con comandos de git](https://education.github.com/git-cheat-sheet-education.pdf)
+1. Aprendiendo el control de versiones git, [chuleta con comandos de git](https://education.github.com/git-cheat-sheet-education.pdf)
 ![git-data-transport-commands](./git/git-data-transport-commands.png)
 
 - [93% de los desarrolladores usa Git según la encuesta de StackOverflow](https://survey.stackoverflow.co/2022/#technology-version-control)

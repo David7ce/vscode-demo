@@ -8,5 +8,5 @@
 ![](./help/keyboard-shortcuts/keyboard-shortcuts-macos.png)
 ![](./help/keyboard-shortcuts/keyboard-shortcuts-windows.png)
 
-## More info
-VSCode is based on [Monaco editor](https://github.com/microsoft/monaco-editor), a code editor for the browser.
+## [VS Code features](./vscode/vscode-features.md)
+

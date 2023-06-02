@@ -15,9 +15,6 @@ The core editor in VS Code is packed with features. This page highlights a numbe
 * [JavaScript Type Checking](#javascript-type-checking) - perform type checking on your JavaScript file using TypeScript with zero configuration.
 
 ### Multi-Cursor Editing
-
-Using multiple cursors allows you to edit multiple parts of the document at once, greatly improving your productivity. Try the following actions in the code block below:
-
 1. Box Selection - press any combination of Shift+DownArrow, Shift+RightArrow, Shift+UpArrow, Shift+LeftArrow to select a block of text. You can also press `⇧⌥``Shift+Alt` while selecting text with the mouse or drag-select using the middle mouse button.
 2. Add a cursor - press Shift+Alt+UpArrow to add a new cursor above, or Shift+Alt+DownArrow to add a new cursor below. You can also use your mouse with Alt+Click to add a cursor anywhere.
 3. Create cursors on all occurrences of a string - select one instance of a string e.g. `background-color` and press Ctrl+Shift+L. Now you can replace all instances by simply typing.
@@ -70,13 +67,10 @@ It's easy to rename a symbol such as a function name or variable name. Hit F2 wh
 
 ```sh
 // Reference the function
-
 new Book("War of the Worlds", "H G Wells");
-
 new Book("The Martian", "Andy Weir");
 
 /\*\*
-
  \* Represents a book.
  \*
  \* @param {string} title Title of the book
@@ -97,11 +91,8 @@ Keeping your code looking great is hard without a good formatter. Luckily it's e
 const cars = \["🚗", "🚙", "🚕"\];
 
 for (const car of cars){
-
     // Drive the car
-
     console.log(\`This is the car ${car}\`);
-
 }
 ```
 
@@ -140,7 +131,6 @@ function Add(a, b)
 
 
 ### Snippets
-
 You can greatly accelerate your editing through the use of snippets. Simply start typing `try` and select `trycatch` from the suggestion list and press Tab to create a `try`\->`catch` block. Your cursor will be placed on the text `error` for easy editing. If more than one parameter exists then press Tab to jump to it.
 
 ```
