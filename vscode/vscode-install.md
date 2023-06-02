@@ -1,15 +1,20 @@
 # VSCode instalación
 
-## Cómo se instala
+## Versiones de VSCode
 Visual Studio Code se publica bajo dos versiones:
 
 - VS Code como producto de Microsoft, es la versión de GitHub con trackers y alguna característica extra añadida por MS.
-- "Code OSS" como software libre de código abierto, desarrollada en GitHub por los trabajadores de Microsoft y la comunidad.
+- "Code OSS" ("Code Open-Source Software") como software libre de código abierto, desarrollada en GitHub por los trabajadores de Microsoft y la comunidad.
 
-### VS Code de MicroSoft
-Para instalar la versión de Visual Studio Code de Microsoft, tenemos que descargar el ejecutable de [VS Code](https://code.visualstudio.com/#alt-downloads) desde la web oficial de MicroSoft. Esta versión está disponible para Windows (como exe), para macOS (dmg) y para Linux (.deb y .rpm)
+### VS Code de MicroSoft: <img src="./img/vscode.svg" alt="drawing" width="20"/>
 
-- También podemos usar un instalador de paquetes en Windows como 'winget' o [chocolatey](https://community.chocolatey.org/packages/vscode)
+Para instalar la versión de Visual Studio Code de Microsoft, tenemos que descargar el ejecutable de [VS Code](https://code.visualstudio.com/#alt-downloads) desde la web oficial de Micro$oft. Esta versión está disponible para:
+- Windows (como exe)
+- macOS (dmg)
+- Linux (.deb y .rpm)
+
+#### Instalación de VS Code con gestores de paquetes
+También podemos usar un instalador de paquetes en Windows como 'winget' o [chocolatey](https://community.chocolatey.org/packages/vscode)
 ```bash
 $ winget install -e --id Microsoft.VisualStudioCode
 $ choco install vscode
@@ -20,18 +25,15 @@ $ choco install vscode
 brew install --cask visual-studio-code
 ```
 
-- Y para Arch Linux:
+- Y desde AUR se para Arch Linux (empaquetado y construido):
 ```sh
 git clone https://aur.archlinux.org/visual-studio-code-bin.git
 cd visual-studio-code-bin
 makepkg -si
 ```
 
-### Code OSS
+### Code OSS: <img src="./img/code-oss.svg" alt="drawing" width="20"/>
 Para descargar la versión de código abierta tenemos que compilar la aplicación o usar algún método que lo haga previamente. Más info en el [repo de Microsoft](https://github.com/microsoft/vscode/wiki/How-to-Contribute))
-
-Logo de Code OSS, 
-![](./img/code-oss.png)
 
 Para compilar la app desde el código fuente puedes usar la guía de MS [aquí](https://github.com/microsoft/vscode/wiki/How-to-Contribute#build-and-run).
 
@@ -43,19 +45,18 @@ Para compilar la app desde el código fuente puedes usar la guía de MS [aquí](
     - Linux (building .deb and .rpm requires fakeroor and rpm)
       - Debian (deb): `sudo apt-get install build-essential g++ libx11-dev libxkbfile-dev libsecret-1-dev python-is-python3`
       - Red-Hat based (rpm): `sudo yum groupinstall "Development Tools" && sudo yum install libX11-devel.x86_64 libxkbfile-devel.x86_64 libsecret-devel # or .i686`
-      - Others: make pkg-config gcc 
+      - Others: install `make pkg-config gcc`
 
 ```sh
 git clone https://github.com/microsoft/vscode
 cd vscode
-yarn
 yarn watch
 ```
 
 - Para sistemas Unix (Linux y macOS)
 ```sh
 ./scripts/code.sh
-./scripts/code-cli.sh # for running CLI commands (eg --version)
+./scripts/code-cli.sh # comandos en CLI (eg --version)
 ```
 
 - Para sistemas Windows
@@ -64,11 +65,13 @@ yarn watch
 ./scripts/code-cli.bat
 ```
 
-- En Arch Linux la versión por defecto en los repositorios oficiales es ["Code OSS"](https://archlinux.org/packages/extra/x86_64/code/) y para instalarla solo habría que hacer uso de su gestor de paquetes 'pacman'.
+- En Arch Linux la versión por defecto en los repositorios oficiales es ["Code OSS"](https://archlinux.org/packages/extra/x86_64/code/) y para instalarla solo habría que hacer uso de su gestor de paquetes 'pacman' (**pac**kage **man**ager).
 ```bash
 sudo pacman -S code
 ```
 
+### VS Codium: <img src="./img/vscodium.svg" alt="drawing" width="20"/>
+Es el mismo proceso que VSCode pero con tienda open-source y sin rastreadores de Microsoft.
 
 ## Referencias
 

@@ -1,24 +1,28 @@
+> En la carpeta vscode se encuentra información a cerca de Visual Studio Code, leer antes de empezar.
+
 # Demo de VSCode
-
-Se puede hacer push desde cualquier sistema que use Git, ya sea VSCode con Git integrado, otro editor con Git o desde la web vscode.dev.
-
-Por tanto solo necesitaríamos un editor (como vscode) y Git instalado.
-
-Esto es una prueba de móvil
+Se puede editar desde cualquier sistema que use Git, ya sea VSCode con Git integrado, otro editor con Git, desde la web vscode.dev o desde GitHub.
 
 ## Previo
 1. Crear cuenta de GitHub [aquí](https://github.com/signup)
-2. Instalar [VS Code](https://code.visualstudio.com/Download) en local para nuestro sisteam operativo. Más documentación [aquí](https://code.visualstudio.com/docs/setup/setup-overview)
+2. Instalar [VS Code](https://code.visualstudio.com/Download) en local para nuestro sisteam operativo. Más info [aquí](https://code.visualstudio.com/docs/setup/setup-overview)
 3. Instalar [Git](https://git-scm.com/)
-4. Nociones básicas de vscode
-5. Aprendiendo git
-![git-data-transport-commands](https://github.com/David7ce/vscode-demo/assets/79609649/231261aa-447c-4687-b8d3-eabba0b354bb)
+4. Nociones básicas de vscode:
+- Explorer, search, source control (git), run and debug, extensions (miles en tienda), etc
+- Paleta: Ctrl + shift + P | Buscador archivos (Ctrl + P)
+- atajos teclado
+- selectores múltiples
+- terminal (desplazar de abajo o atajo teclado)
+- emmet para web dev
 
-- Para añadir el repositorio en remoto con Git:
-  - nuevo repositorio remoto: `git remote add origin git@github.com:User/UserRepo.git`
-  - cambiar la url de un repositorio remoto existente: `git remote set-url origin git@github.com:User/UserRepo.git`
+5. Aprendiendo el control de versiones git, [chuleta con comandos de git](https://education.github.com/git-cheat-sheet-education.pdf)
+![git-data-transport-commands](./git/git-data-transport-commands.png)
+
+- [93% de los desarrolladores usa Git según la encuesta de StackOverflow](https://survey.stackoverflow.co/2022/#technology-version-control)
+
 > la URL puede usar el protocolo: HTTPS https://github.com/User/UserRepo o SSH git@github.com:User/UserRepo.git
 
+6. Aprende GitHub con [GitHub Skills](https://skills.github.com/)
 
 ## Editar proyecto en local
 1. Abrimos y editamos un proyecto de página web en local

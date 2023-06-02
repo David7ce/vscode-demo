@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="225" height="225">
+<path style="fill:#ffffff; stroke:none;" d="M0 0L0 18L47 18L64.3966 19.6034L66 31L66 60L66 168L66 195L64.3966 205.397L47 207L0 207L0 225L225 225L225 207L124 207L97 207L86.3179 205.972L84 195L84 166L84 55L84 29L86.3179 19.0278L97 18L124 18L225 18L225 0L0 0z"/>
+<path style="fill:#d7e6f3; stroke:none;" d="M0 18L0 19L65 19L44 18L0 18M85 18L85 19L225 19C214.02 14.3926 194.944 18 183 18L85 18z"/>
+<path style="fill:#167bbf; stroke:none;" d="M0 19L0 206L65 206L65 19L0 19z"/>
+<path style="fill:#8eb5da; stroke:none;" d="M65 19L65 206L66 206L66 75L66 37L65 19M84 19L84 206L85 206L85 75L85 37L84 19z"/>
+<path style="fill:#167bbf; stroke:none;" d="M85 19L85 206L225 206L225 19L85 19z"/>
+<path style="fill:#ffffff; stroke:none;" d="M103 40L103 54L178 54L178 40L103 40z"/>
+<path style="fill:#5999cd; stroke:none;" d="M131 72L132 73L131 72z"/>
+<path style="fill:#8eb5da; stroke:none;" d="M132 72L132 73L206 73L183 72L132 72z"/>
+<path style="fill:#d7e6f3; stroke:none;" d="M131 73L132.603 85.9722L152 87L206 87L206 86L132 86L131 73z"/>
+<path style="fill:#ffffff; stroke:none;" d="M132 73L132 86L206 86L206 73L132 73z"/>
+<path style="fill:#5999cd; stroke:none;" d="M206 73L206 87L207 87L206 73z"/>
+<path style="fill:#8eb5da; stroke:none;" d="M131 86L132 87L131 86M131 105L131 106L206 106L183 105L131 105z"/>
+<path style="fill:#5999cd; stroke:none;" d="M206 105L206 120L207 120L206 105z"/>
+<path style="fill:#d7e6f3; stroke:none;" d="M131 106L131 119L132 119L131 106z"/>
+<path style="fill:#ffffff; stroke:none;" d="M132 106L132 119L206 119L206 106L132 106z"/>
+<path style="fill:#8eb5da; stroke:none;" d="M131 119L131 120L206 120L183 119L131 119M131 138L132 139L131 138z"/>
+<path style="fill:#d7e6f3; stroke:none;" d="M131 152L132 152L132 139L206 139L188 138L150 138L132.603 139.028L131 152z"/>
+<path style="fill:#5999cd; stroke:none;" d="M206 138L206 152L207 152L206 138z"/>
+<path style="fill:#ffffff; stroke:none;" d="M132 139L132 152L206 152L206 139L132 139z"/>
+<path style="fill:#5999cd; stroke:none;" d="M131 152L132 153L131 152z"/>
+<path style="fill:#8eb5da; stroke:none;" d="M132 152L132 153L206 153L183 152L132 152z"/>
+<path style="fill:#ffffff; stroke:none;" d="M103 171L103 185L178 185L178 171L103 171z"/>
+<path style="fill:#d7e6f3; stroke:none;" d="M0 206L0 207L65 207L44 206L0 206M85 206L85 207L225 207C214.02 202.393 194.944 206 183 206L85 206z"/>
+</svg>
